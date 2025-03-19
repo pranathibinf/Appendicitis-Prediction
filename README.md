@@ -4,22 +4,22 @@
 This project focuses on enhancing the accuracy of diagnosing appendicitis by developing an ensemble model that utilizes clinical features. The ensemble model combines Logistic Regression, Random Forest, and SVM machine learning methods to improve diagnostic precision. The data used in this study was sourced from Zenodo's Clinical Data Repository.
 
 ## Table of Contents:
-Introduction
-Data Loading
-Exploratory Data Analysis (EDA)
-Data Pre-processing
-Model Building
-Model Evaluation
-Inference
-References
+Introduction:
+Data Loading,
+Exploratory Data Analysis (EDA),
+Data Pre-processing,
+Model Building,
+Model Evaluation,
+Inference,
+References,
 
 ## Introduction:
 The project's aim is to develop a robust tool to increase the accuracy of appendicitis diagnosis by integrating various machine learning techniques that leverage clinical data effectively.
 
 ## Setup and Installation:
 R Studio: For statistical computing
-dplyr, tidyr, ggplot2: For data manipulation and visualization
-randomForest, e1071, caret: For building machine learning models
+dplyr, tidyr, ggplot2; For data manipulation and visualization
+randomForest, e1071, caret; For building machine learning models
 pROC: For AUC and ROC curve analysis
 
 ## Data Loading:
